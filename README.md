@@ -10,7 +10,7 @@
     <br/>
   <img src="https://img.shields.io/github/license/tysker/the_tdd_dojo" alt="License">
 </p>
-<br/>
+
 <p align="center"> 
   <img width="100" src="https://img.shields.io/badge/Java-17+-red?logo=openjdk&style=flat-square"
 </p>
