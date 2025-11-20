@@ -1,12 +1,4 @@
 <p align="center">
-  <img width="320" src="https://img.shields.io/badge/TDD%20Dojo-Java-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
-</p>
-
-<p align="center">
-  <img width="260" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red-Green-Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
-</p>
-
-<p align="center">
   <img width="300" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red%20Green%20Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
 </p>
 
@@ -17,21 +9,10 @@
   <img src="https://img.shields.io/github/license/tysker/the_tdd_dojo" alt="License">
 </p>
 
-```
+---
 
- _____ ______ ______           ______  _____    ___  _____
-|_   _||  _  \|  _  \          |  _  \|  _  |  |_  ||  _  |
-  | |  | | | || | | |  ______  | | | || | | |    | || | | |
-  | |  | | | || | | | |______| | | | || | | |    | || | | |
-  | |  | |/ / | |/ /           | |/ / \ \_/ //\__/ /\ \_/ /
-  \_/  |___/  |___/            |___/   \___/ \____/  \___/
-
-
-
-```
-
-A collection of small, focused Java katas designed to practise **Test-Driven Development** (TDD).
-Each exercise is self-contained, language-agnostic in concept, and structured to reinforce the
+A collection of small, focused Java katas designed to practise **Test-Driven Development** (TDD).  
+Each exercise is self-contained, language-agnostic in concept, and structured to reinforce the  
 _Red → Green → Refactor_ cycle.
 
 Ideal for teaching, dojos, pair programming, or sharpening your own testing reflexes.
@@ -82,26 +63,28 @@ This project helps you:
 ## 🗂 Repository Structure
 
 ```
+
 src
- └── main
-     └── java
-         └── dk
-             └── exercises
-                 ├── 01-FizzBuzz
-                 ├── 02-StringCalculator
-                 ├── 03-PasswordValidator
-                 ├── 04-SearchFunctionality
-                 ├── 05-BarCodes
-                 ├── 06-Banking
-                 └── 07-Greeting
- └── resources
-     └── logs / logback.xml
+└── main
+└── java
+└── dk
+└── exercises
+├── 01-FizzBuzz
+├── 02-StringCalculator
+├── 03-PasswordValidator
+├── 04-SearchFunctionality
+├── 05-BarCodes
+├── 06-Banking
+└── 07-Greeting
+└── resources
+└── logs / logback.xml
 
 test
- └── java
-     └── dk
-         └── exercises
-             └── (tests live here as you write them)
+└── java
+└── dk
+└── exercises
+└── (tests live here as you write them)
+
 ```
 
 Each kata lives inside its own folder under `dk/exercises/`.
@@ -113,8 +96,8 @@ Each kata lives inside its own folder under `dk/exercises/`.
 Clone the repository:
 
 ```bash
-git clone https://github.com/tysker/tdd_java_exercises.git
-cd tdd_java_exercises
+git clone https://github.com/tysker/the_tdd_dojo.git
+cd the_tdd_dojo
 ```
 
 Make sure you have:
@@ -129,7 +112,7 @@ Run all tests:
 mvn test
 ```
 
-Run a single kata’s tests (if packages match):
+Run a single kata’s tests:
 
 ```bash
 mvn -Dtest="FizzBuzzTest" test
@@ -152,8 +135,6 @@ Every exercise is designed for classic TDD flow:
 
 ## 📘 Exercise List
 
-Here are all available katas, based on your current folder structure:
-
 | #   | Name                 | Folder Name              | Description (short)                                 |
 | --- | -------------------- | ------------------------ | --------------------------------------------------- |
 | 01  | FizzBuzz             | `01-FizzBuzz`            | Classic FizzBuzz with TDD & incremental rules       |
@@ -167,8 +148,6 @@ Here are all available katas, based on your current folder structure:
 ---
 
 ## 📝 Exercise README Template
-
-This is the structure each exercise README should follow for clarity and consistency:
 
 ```markdown
 # Exercise Name
