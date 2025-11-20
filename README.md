@@ -1,3 +1,22 @@
+<p align="center">
+  <img width="320" src="https://img.shields.io/badge/TDD%20Dojo-Java-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+</p>
+
+<p align="center">
+  <img width="260" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red-Green-Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
+</p>
+
+<p align="center">
+  <img width="300" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red%20Green%20Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml">
+    <img src="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml/badge.svg" alt="Tests">
+  </a>
+  <img src="https://img.shields.io/github/license/tysker/the_tdd_dojo" alt="License">
+</p>
+
 ```
 
  _____ ______ ______           ______  _____    ___  _____
