@@ -2,12 +2,18 @@
   <img width="300" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red%20Green%20Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
 </p>
 
+---
+
 <p align="center">
   <a href="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml">
     <img src="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml/badge.svg" alt="Tests">
   </a>
   <img src="https://img.shields.io/github/license/tysker/the_tdd_dojo" alt="License">
 </p>
+
+---
+
+![Java](https://img.shields.io/badge/Java-17+-red?logo=openjdk&style=flat-square)
 
 ---
 
