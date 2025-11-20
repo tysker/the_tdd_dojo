@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="600" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red%20Green%20Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
+  <img width="500" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red%20Green%20Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml">
-    <img src="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml/badge.svg" alt="Tests">
+    <img src="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml/badge.svg" alt="GitHub Workflow Test">
   </a>
     <br/>
     <br/>
