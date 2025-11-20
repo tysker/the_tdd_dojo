@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center"> 
-  <img width="300" src="https://img.shields.io/badge/Java-17+-red?logo=openjdk&style=flat-square"
+  <img width="50" src="https://img.shields.io/badge/Java-17+-red?logo=openjdk&style=flat-square"
 </p>
 
 <br/>
