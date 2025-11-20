@@ -6,11 +6,10 @@
   <a href="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml">
     <img src="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml/badge.svg" alt="Build & Test Status">
   </a>
+    <br/>
   <img src="https://img.shields.io/github/license/tysker/the_tdd_dojo" alt="License">
   <img src="https://img.shields.io/badge/Java-17%2B-red?logo=openjdk&style=flat" alt="Java Version">
 </p>
-
----
 
 A collection of small, focused Java katas designed to practise **Test-Driven Development** (TDD).  
 Each exercise is self-contained, language-agnostic in concept, and structured to reinforce the  
