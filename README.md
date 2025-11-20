@@ -1,9 +1,14 @@
+```markdown
+<p align="center">
+  <img width="300" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red%20Green%20Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
+</p>
+
 <p align="center">
   <a href="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml">
-    <img src="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml/badge.svg" alt="Tests">
+    <img src="https://github.com/tysker/the_tdd_dojo/actions/workflows/tests.yml/badge.svg" alt="Build & Test Status">
   </a>
   <img src="https://img.shields.io/github/license/tysker/the_tdd_dojo" alt="License">
-  <img src="https://img.shields.io/badge/Java-17+-red?logo=openjdk&style=flat" alt="Java Version">
+  <img src="https://img.shields.io/badge/Java-17%2B-red?logo=openjdk&style=flat" alt="Java Version">
 </p>
 
 ---
@@ -38,7 +43,7 @@ refactoring toward clean, maintainable code.
 
 Every exercise has:
 
-- a dedicate folder
+- a dedicated folder
 - one or more Java classes to be tested
 - a README explaining the problem
 - space for you to write tests and implementations gradually
@@ -58,7 +63,6 @@ This project helps you:
 ---
 
 ## 🗂 Repository Structure
-
 ```
 
 src
@@ -82,7 +86,7 @@ test
 └── exercises
 └── (tests live here as you write them)
 
-```
+````
 
 Each kata lives inside its own folder under `dk/exercises/`.
 
@@ -95,7 +99,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/tysker/the_tdd_dojo.git
 cd the_tdd_dojo
-```
+````
 
 Make sure you have:
 
