@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img width="300" src="https://img.shields.io/badge/The%20TDD%20Dojo-Red%20Green%20Refactor-orange?style=for-the-badge&logo=target&logoColor=white">
 </p>
@@ -63,6 +62,7 @@ This project helps you:
 ---
 
 ## 🗂 Repository Structure
+
 ```
 
 src
@@ -86,7 +86,7 @@ test
 └── exercises
 └── (tests live here as you write them)
 
-````
+```
 
 Each kata lives inside its own folder under `dk/exercises/`.
 
@@ -99,7 +99,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/tysker/the_tdd_dojo.git
 cd the_tdd_dojo
-````
+```
 
 Make sure you have:
 
