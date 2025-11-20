@@ -8,7 +8,7 @@
   </a>
     <br/>
     <br/>
-  <img src="https://img.shields.io/github/license/tysker/the_tdd_dojo" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
   <img src="https://img.shields.io/badge/Java-17%2B-red?logo=openjdk&style=flat" alt="Java Version">
 </p>
 
