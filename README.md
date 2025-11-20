@@ -1,9 +1,19 @@
+```
 
-# 🌱 Test-Driven Development Exercises (Java)
+ _____ ______ ______           ______  _____    ___  _____
+|_   _||  _  \|  _  \          |  _  \|  _  |  |_  ||  _  |
+  | |  | | | || | | |  ______  | | | || | | |    | || | | |
+  | |  | | | || | | | |______| | | | || | | |    | || | | |
+  | |  | |/ / | |/ /           | |/ / \ \_/ //\__/ /\ \_/ /
+  \_/  |___/  |___/            |___/   \___/ \____/  \___/
+
+
+
+```
 
 A collection of small, focused Java katas designed to practise **Test-Driven Development** (TDD).
 Each exercise is self-contained, language-agnostic in concept, and structured to reinforce the
-*Red → Green → Refactor* cycle.
+_Red → Green → Refactor_ cycle.
 
 Ideal for teaching, dojos, pair programming, or sharpening your own testing reflexes.
 
@@ -31,10 +41,10 @@ refactoring toward clean, maintainable code.
 
 Every exercise has:
 
-* a dedicate folder
-* one or more Java classes to be tested
-* a README explaining the problem
-* space for you to write tests and implementations gradually
+- a dedicate folder
+- one or more Java classes to be tested
+- a README explaining the problem
+- space for you to write tests and implementations gradually
 
 ---
 
@@ -42,11 +52,11 @@ Every exercise has:
 
 This project helps you:
 
-* practise TDD in small, safe iterations
-* understand good test naming and structure
-* improve refactoring habits
-* build fluency with clean Java code
-* explore a variety of problem domains (strings, validation, business logic, parsing, etc.)
+- practise TDD in small, safe iterations
+- understand good test naming and structure
+- improve refactoring habits
+- build fluency with clean Java code
+- explore a variety of problem domains (strings, validation, business logic, parsing, etc.)
 
 ---
 
@@ -90,9 +100,9 @@ cd tdd_java_exercises
 
 Make sure you have:
 
-* **Java** (Java 17+ recommended)
-* **Maven** (project uses `pom.xml`)
-* Your editor or IDE (IntelliJ works beautifully)
+- **Java** (Java 17+ recommended)
+- **Maven** (project uses `pom.xml`)
+- Your editor or IDE (IntelliJ works beautifully)
 
 Run all tests:
 
@@ -125,15 +135,15 @@ Every exercise is designed for classic TDD flow:
 
 Here are all available katas, based on your current folder structure:
 
-| #  | Name                 | Folder Name              | Description (short)                                 |
-| -- | -------------------- | ------------------------ | --------------------------------------------------- |
-| 01 | FizzBuzz             | `01-FizzBuzz`            | Classic FizzBuzz with TDD & incremental rules       |
-| 02 | String Calculator    | `02-StringCalculator`    | Add numbers from strings, handle delimiters, errors |
-| 03 | Password Validator   | `03-PasswordValidator`   | Validate password strength rules                    |
-| 04 | Search Functionality | `04-SearchFunctionality` | Implement simple text search and filtering rules    |
-| 05 | Bar Codes            | `05-BarCodes`            | Barcode checking / validation logic                 |
-| 06 | Banking              | `06-Banking`             | Simple banking logic (accounts, transactions)       |
-| 07 | Greeting             | `07-Greeting`            | Generate greeting messages with formatting rules    |
+| #   | Name                 | Folder Name              | Description (short)                                 |
+| --- | -------------------- | ------------------------ | --------------------------------------------------- |
+| 01  | FizzBuzz             | `01-FizzBuzz`            | Classic FizzBuzz with TDD & incremental rules       |
+| 02  | String Calculator    | `02-StringCalculator`    | Add numbers from strings, handle delimiters, errors |
+| 03  | Password Validator   | `03-PasswordValidator`   | Validate password strength rules                    |
+| 04  | Search Functionality | `04-SearchFunctionality` | Implement simple text search and filtering rules    |
+| 05  | Bar Codes            | `05-BarCodes`            | Barcode checking / validation logic                 |
+| 06  | Banking              | `06-Banking`             | Simple banking logic (accounts, transactions)       |
+| 07  | Greeting             | `07-Greeting`            | Generate greeting messages with formatting rules    |
 
 ---
 
@@ -145,25 +155,29 @@ This is the structure each exercise README should follow for clarity and consist
 # Exercise Name
 
 ## Objective
+
 A short description of the problem and what you are expected to implement.
 
 ## Requirements
+
 List of rules, one per line.
 Follow incremental TDD steps.
 
 ## Hints
+
 - Start with small tests
 - Keep refactoring often
 - Focus on naming
 - Think about edge cases
 
 ## Expected Difficulty
+
 Easy / Medium / Hard
 
 ## Notes
+
 Any additional clarifications for the student.
 ```
-
 
 ---
 
@@ -182,6 +196,3 @@ To add a new kata:
 ## 📄 License
 
 MIT License — free to use, modify, and teach with.
-
-
-

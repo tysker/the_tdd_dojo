@@ -1,5 +1,3 @@
-# ✨ KATA 6 — Banking (Account Statement)
-
 ```
 
 

@@ -1,5 +1,3 @@
-# ✨ KATA 7 — The Greeting Kata
-
 ```
 
 
